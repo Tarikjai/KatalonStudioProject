@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03a54d14-3bd6-4966-bed4-4b9bab18fcc2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51f7d0ad-f5ad-45e9-b1ab-58906f6b3ca8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1051e7bb-b275-40f6-a49b-82f3241e35c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin@yourstore.com'</defaultValue>
+      <description></description>
+      <id>51f7d0ad-f5ad-45e9-b1ab-58906f6b3ca8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>1051e7bb-b275-40f6-a49b-82f3241e35c7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
